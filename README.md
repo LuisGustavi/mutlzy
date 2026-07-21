@@ -1,0 +1,2 @@
+# mutlzy
+Daily digest notes
